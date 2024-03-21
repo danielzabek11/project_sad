@@ -9,7 +9,7 @@ pip install jupyterlab
 ```
 Now while in terminal while inside directory of project open notebook:
 ```shell
-jupyter toy_dataset.ipynb
+jupyter lab toy_dataset.ipynb
 ```
 Inside notebook go file -> new -> terminal
 # Setting up virtual environment on windows within notebook
