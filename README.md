@@ -1,4 +1,18 @@
-# Setting up virtual env on windows
+# Setting up jupyerLab and notebook:
+To install notebook run in terminal:
+```shell
+pip install notebook
+```
+To install JupyterLab run in terminal:
+```shell
+pip install jupyterlab
+```
+Now while in terminal while inside directory of project open notebook:
+```shell
+jupyter toy_dataset.ipynb
+```
+Inside notebook go file -> new -> terminal
+# Setting up virtual environment on windows within notebook
 First create virtual environment:
 ```shell
 python -m venv venv
